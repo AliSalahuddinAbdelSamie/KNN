@@ -8,7 +8,7 @@ This project implements the **K-Nearest Neighbors (KNN)** algorithm using Python
 - Includes performance evaluation metrics
 
 ## Requirements
-- Python 3.x
+- Python 
 - Jupyter Notebook
 - NumPy, Pandas, Scikit-learn, Matplotlib (install with `pip install numpy pandas scikit-learn matplotlib`)
 
