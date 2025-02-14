@@ -15,4 +15,4 @@ This project implements the **K-Nearest Neighbors (KNN)** algorithm using Python
 ## Usage
  Clone this repository:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   https://github.com/AliSalahuddinAbdelSamie/KNN.git
